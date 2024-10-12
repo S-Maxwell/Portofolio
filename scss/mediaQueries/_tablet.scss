@@ -1,0 +1,9 @@
+@use "../abstracts" as a;
+
+@media screen and (min-width: 768px) {
+    // HEADER
+    .main-header {
+      height: fit-content;
+
+    }
+}
